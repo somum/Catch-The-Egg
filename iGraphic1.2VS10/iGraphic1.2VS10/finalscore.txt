@@ -1,0 +1,5 @@
+SSO	80
+siam	70
+sp	55
+sayem	45
+somum	35
